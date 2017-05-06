@@ -11,7 +11,7 @@ npm i url-path-info --save-dev
 Just require the `url-path-info` module. 
 
 ```javascript
-const pathInfo = require('./index');
+const pathInfo = require('url-path-info');
 
 pathInfo('https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Mapid?foo=lorem&bar=&baz');
 
