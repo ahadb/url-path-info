@@ -7,6 +7,8 @@ Package that shows path info in an easy to use object
 npm i url-path-info --save-dev
 ```
 
+..or on [NPM](https://www.npmjs.com/package/url-path-info)
+
 ## Usage
 Just require the `url-path-info` module. 
 
